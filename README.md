@@ -41,6 +41,7 @@
 - **[美图设计室](https://www.designkit.com/)** — 美图旗下电商设计工具,商品图、海报、抠图一站式,中文场景模板丰富。
 - **[稿定设计](https://www.gaoding.com/)** — 模板驱动的电商视觉工具,主图 / 详情页 / 促销海报模板量大。
 - **[创客贴](https://www.chuangkit.com/)** — 在线平面设计工具,含大量电商主图模板。
+- **[Photoshoot](https://photoshoot.app/?utm_source=github_pixgt&utm_medium=backlink&utm_campaign=202609_w7_backlinks)** — AI 商业摄影工具,一张商品照片生成电商级白底主图与详情页图,支持批量与品牌风格保持,有免费试用。
 - **[Photoshoot](https://photoshoot.app)** — AI 商业摄影工具，上传产品图与时尚参考图，生成影棚级商品主图与模特展示图，面向跨境电商卖家，免费试用 30 积分。
 
 ## 场景图与背景替换
@@ -54,6 +55,7 @@
 - **[Flair AI](https://flair.ai/)** — 设计感强,支持自定义构图与道具摆放,适合品牌调性要求高的场景。
 - **[Claid.ai](https://claid.ai/)** — 面向电商平台与规模化卖家的图片增强与场景生成 API。
 - **[堆友 AI](https://d.design/)** — 阿里旗下设计资源平台,含 AI 商品场景图能力。
+- **[Photoshoot](https://photoshoot.app/) — 一张商品图生成多场景图(生活场景 / 季节营销),并支持模特试穿与广告素材输出。
 
 ## 模特试穿与服装展示
 
